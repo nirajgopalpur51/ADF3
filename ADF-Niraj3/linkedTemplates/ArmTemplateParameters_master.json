@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "ADF-Niraj3"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://newstoragegen2.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
